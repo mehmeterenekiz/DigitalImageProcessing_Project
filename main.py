@@ -8,7 +8,7 @@ import os
 from pathlib import Path
 
 # Görüntüyü yükleme
-I = cv2.imread("./I.png")
+I = cv2.imread("./plaka.png")
 
 # BGR'den RGB'ye dönüştürme
 I_rgb = cv2.cvtColor(I, cv2.COLOR_BGR2RGB)
