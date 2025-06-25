@@ -3,3 +3,6 @@ Bu projede dijital görüntü işleme dersinden edinilmiş bilgi birikimini peki
 Bir diğer işlem ise elimizdeki bir doku görselinin içerisinde yer alan yağ öbeklerinin dokunun yüzde kaçını oluşturuyor bunu ölçmek için gerekli işlemler uygulandı ve sonuca ulaşıldı.
 
 ![Yag Doku Asamalari](yag_doku_asamalari.png)
+
+![Plaka_Gorsel_Asamalari](plaka_gorsel_asamalari.png)
+
